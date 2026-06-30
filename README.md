@@ -134,5 +134,3 @@ npm run dev
 **Triveni Manjunath**
 
 Bachelor of Engineering (Computer Science)
-
-⭐ If you found this project useful, consider giving it a star on GitHub.
